@@ -5,3 +5,6 @@ dewey/
 data/
 *.parquet
 *.csv.gz
+dewey/
+*.parquet
+*.csv.gz
