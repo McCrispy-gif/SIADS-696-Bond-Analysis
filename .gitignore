@@ -1,0 +1,3 @@
+dewey/
+*.parquet
+*.csv.gz
