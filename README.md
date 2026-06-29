@@ -11,5 +11,7 @@ Artificial Intelligence is increasingly used in financial markets, yet the perfo
 
 
 **Data Sources**
-https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/finra/
-https://app.deweydata.io/data/7-chord/bond-prices-and-liquidity-indicators/top-liquid-bond-prices-liquidity-indicators-present/documentation
+
+WRDS FINRA: https://wrds-www.wharton.upenn.edu/pages/about/data-vendors/finra/
+
+BondDroid: https://app.deweydata.io/data/7-chord/bond-prices-and-liquidity-indicators/top-liquid-bond-prices-liquidity-indicators-present/documentation
